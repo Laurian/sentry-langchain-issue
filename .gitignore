@@ -1,0 +1,14 @@
+.venv
+
+models/*
+!models/.keep
+!models/*.tmpl
+!models/*.yaml
+
+images/*
+!images/.keep
+
+huggingface/*
+!huggingface/.keep
+
+.env.production
